@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Agent",
+  "description": "An AI-powered clinical decision support system that analyzes patient eMR data to provide evidence-based treatment suggestions, safety alerts, and draft care plans for clinicians.",
+  "requestFramePermissions": []
+}
