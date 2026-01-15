@@ -3,7 +3,12 @@
 An AI-powered clinical decision support system designed to reduce clinician cognitive overload. This prototype analyzes mock Electronic Medical Record (eMR) data using Google's Gemini to provide evidence-based treatment suggestions, safety alerts, and draft care plans for clinicians.
 
 ## Demo
-<video controls src="Agent_Demo.mov" title="Title"></video>
+<video controls title="Title">
+  <source src="/assets/Agent_Demo.mp4" type="video/mp4">
+  <source src="/assets/Agent_Demo.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
 ## About The Project
 Clinicians today are grappling with an immense cognitive burden, a direct result of rising patient complexity and an ever-growing mountain of data. This situation calls for new, intelligent tools to aid in clinical decision-making.
 
@@ -11,7 +16,7 @@ The AI Healthcare Agent is a prototype system designed to function as a clinical
 
 At its heart, the system uses Google's Gemini to sift through mock eMR data (vitals, medications, allergies, notes) and propose evidence-based care plans. The prototype’s design is built on a novel hybrid safety architecture, which combines the generative power of the LLM with the reliability of structural guardrails (via JSON schema) and the crucial element of human-in-the-loop oversight.
 
-![alt text](Diagram.png)
+![alt text](/assets/Diagram.png)
 
 ## Research
 This prototype is the practical output of a research project titled: "How Autonomous AI Agents Can Streamline Healthcare Delivery and Enhance Patient Care." 
