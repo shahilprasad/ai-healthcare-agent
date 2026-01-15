@@ -3,11 +3,7 @@
 An AI-powered clinical decision support system designed to reduce clinician cognitive overload. This prototype analyzes mock Electronic Medical Record (eMR) data using Google's Gemini to provide evidence-based treatment suggestions, safety alerts, and draft care plans for clinicians.
 
 ## Demo
-<video controls title="Title">
-  <source src="assets/Agent_Demo.mp4" type="video/mp4">
-  <source src="assets/Agent_Demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/66b1a63f-5ccd-49e4-8cc5-29e7e05a16f7
 
 ## About The Project
 Clinicians today are grappling with an immense cognitive burden, a direct result of rising patient complexity and an ever-growing mountain of data. This situation calls for new, intelligent tools to aid in clinical decision-making.
